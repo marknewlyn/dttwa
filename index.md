@@ -7,6 +7,13 @@ We need to band together to keep order and preserve sanity. Together we can over
 
 <img src="images/Banner2.png">
 
+<hr />
+
+Look at this hard evidence of them bribing their way in with murderous intent:
+
+<img src="root+fox+tax+bribe.jpg">
+
+Stand together fine forest folk and let us rid the forest of the evil, despicable vermin that make up the Woodlands Alliance!
 ## FAQ
 
 <dl>
