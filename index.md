@@ -1,7 +1,9 @@
 # Death to the Woodlands Alliance
-
+<hr />
 This community website is to raise awareness about a dangerous tide that is overrunning our beautiful, peaceful and productive forest. 
-We need to band together to keep order and preserve sanity.
+We need to band together to keep order and preserve sanity. Together we can overcome the evil, deceptive and murderous Woodlands Alliance.
+<hr />
+
 
 <img src="images/Banner2.png">
 
