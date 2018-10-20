@@ -12,7 +12,7 @@ We need to band together to keep order and preserve sanity. Together we can over
 <dl>
 
 <dt>Aren't they just innocent, little creatures?</dt>
-<dd>NO, <strong>#FAKENEWS</strong>! They are little vermin yes, vermin with the blood of innocent cats on their grimy paws!</dd>
+<dd>NO, <strong style="color:orange;">#FAKENEWS</strong>! They are little vermin yes, vermin with the blood of innocent cats on their grimy paws!</dd>
 <dt>But they are so cute?</dt>
 <dd>That is exactly their trick - they try to generate sympathy before they turn on you and mercilessly kill and destroy everything that is good!</dd>
 <dt>But aren't the Marquise de Cat trying to control everyone?</dt>
