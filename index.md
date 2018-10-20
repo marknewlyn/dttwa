@@ -1,6 +1,6 @@
 # Death to the Woodlands Alliance
 
-<img src="images/Banner.png">
+<img src="images/Banner2.png">
 
 ## FAQ
 
