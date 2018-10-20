@@ -7,7 +7,7 @@
 <dl>
 
 <dt>Aren't they just innocent, little creatures?<</dt>
-<dd></dd>
+<dd>NO! They are little vermin yes, vermin with the blood of innocent cats on their grimy paws!</dd>
 
 </dl>
 
